@@ -8,9 +8,6 @@ install dev dependencies
 
 ### `cd client && npm install` 
 
-You will need to use your sanity api keys
-
-### `cd server && npm install`
 
 ## Then
 
